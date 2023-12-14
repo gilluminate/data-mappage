@@ -18,6 +18,11 @@
   - Decided to treat the various types like tags and used those as filters.
 - Anything else you want us to know about
   - Used MUI to work faster using pre-existing UI components without reinventing the wheel.
+  - I had a lot more ideas for this, but ran out of time.
+    - Beginnings of an expand/collapse on each card which would contain more granular details.
+    - Wanted to make each card clickable that would open a drawer or modal with All the details.
+    - Wanted to add more filters as the challenge suggested.
+    - Wanted to add color.
 - Any feedback you have on this technical challenge
   - Mockup incorrectly labels the first column as “Systems” when it should be “Applications”
     - Caused quite a bit of confusion starting out deciding what the Task description was referring to as “systems” and the difference between a System and a Data Category.
