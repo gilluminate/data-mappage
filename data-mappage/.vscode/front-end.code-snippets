@@ -1,0 +1,19 @@
+{
+  "Functional Component - Web": {
+    "prefix": "bcfc",
+    "description": "Stub for new react functional component with prefilled imports for web.",
+    "body": [
+      "import { Box, BoxProps } from '@mui/material';",
+      "",
+      "interface I${TM_FILENAME_BASE}Props extends BoxProps {",
+      "\t${1:InterfaceProperty}: ${2:PropertyType}",
+      "}",
+      "",
+      "export const ${TM_FILENAME_BASE} = ({ ${1}, ...props }: I${TM_FILENAME_BASE}Props): JSX.Element => {",
+      "\tconsole.log(${1});",
+      "\treturn <Box {...props}>{${1}}</Box>;",
+      "};",
+      "",
+    ]
+  },
+}
