@@ -1,7 +1,7 @@
 {
   "Functional Component - Web": {
-    "prefix": "bcfc",
-    "description": "Stub for new react functional component with prefilled imports for web.",
+    "prefix": "gillfc",
+    "description": "Stub for new react functional component with prefilled imports for MUI.",
     "body": [
       "import { Box, BoxProps } from '@mui/material';",
       "",
