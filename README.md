@@ -5,9 +5,6 @@
 
 ------------------------------------------------------------
 
-### TODO
-Fill These out
-
 - How to run your project (or where it is hosted)
   - `cd data-mappage`
   - `yarn start`
