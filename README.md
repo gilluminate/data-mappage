@@ -5,7 +5,7 @@
 
 ------------------------------------------------------------
 
-- How to run your project (or where it is hosted)
+- How to run your project
   - `cd data-mappage`
   - `yarn start`
 - How much time you spent building the project
