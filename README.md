@@ -7,7 +7,7 @@
 
 - How to run your project
   - `cd data-mappage`
-  - `yarn start`
+  - `yarn && yarn start`
 - How much time you spent building the project
   - 4 hours
 - Any assumptions you made
