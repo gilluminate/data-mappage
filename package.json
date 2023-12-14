@@ -1,0 +1,10 @@
+{
+  "name": "data-mappage",
+  "private": true,
+  "main": "index.js",
+  "repository": "https://github.com/gilluminate/data-mappage.git",
+  "author": "Jason Gill <petethechop@gmail.com>",
+  "dependencies": {
+    "create-react-app": "^5.0.1"
+  }
+}
